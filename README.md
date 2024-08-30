@@ -1,7 +1,7 @@
 
 
 # Sibha App
-![Sibha App Screenshot](assets/sibha.jpg)
+<img src="assets/sibha.jpg" alt="Sibha App Screenshot" width="400"/>
 
 ## Overview
 
