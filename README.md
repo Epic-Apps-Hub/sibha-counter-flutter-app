@@ -1,6 +1,7 @@
 
 
 # Sibha App
+![Sibha App Screenshot](assets/sibha.jpg)
 
 ## Overview
 
@@ -37,9 +38,7 @@ To install and run the app:
    flutter run
    ```
 
-## Screenshots
 
-![Sibha App Screenshot](assets/sibha.jpg)
 
 ## Contributing
 
